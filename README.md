@@ -1,1 +1,1 @@
-# One-Life-Game
+# Game
